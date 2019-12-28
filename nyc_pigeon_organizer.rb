@@ -1,3 +1,4 @@
 def nyc_pigeon_organizer(data)
-  data
+  data.each do |key,value|
+  		data[key]
 end
